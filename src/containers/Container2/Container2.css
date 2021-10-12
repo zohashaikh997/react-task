@@ -1,0 +1,45 @@
+.container2{
+  padding-top: 100px;
+  height:450px;
+}
+.card1{
+     background-image: url(./card1bg.png);
+     background-size: cover;
+     width: 350px;
+     height: 200px;
+     text-align: center;
+     padding-right: 40px;
+     padding-top: 30px;
+     margin-bottom: 10px;
+}
+.card2{
+     background-image: url(./card2bg.png);
+     background-size: cover;
+     width: 350px;
+     height: 200px;
+     text-align: center;
+     padding-right: 40px;
+     padding-top: 30px;
+     margin-bottom: 10px;
+
+}
+.card3{
+     background-image: url(./card3bg.png);
+     background-size: cover;
+     width: 350px;
+     height: 200px;
+     text-align: center;
+     padding-right: 40px;
+     padding-top: 30px;
+     margin-bottom: 10px;
+}
+
+
+
+
+.card:hover  {
+   height: 230px;
+   width:360px;
+    transition: all 0.2s ease;
+    box-shadow: 5px 10px 18px #888888;
+}
