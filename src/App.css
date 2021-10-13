@@ -1,0 +1,15 @@
+.navlogo{
+  width: 150px;
+  height: 70px;
+  margin-left: 100px;
+}
+.nav{
+  background-color: white;
+  padding:50px;
+  font-size: 18px;
+ 
+ 
+}
+.nav-icon{
+  color: rgb(86, 86, 246);
+}

@@ -1,0 +1,52 @@
+.footer{
+    background-color: #17a2b8;
+   padding-top: 80px;
+   padding-bottom: 10px;
+   
+   
+  
+    
+}
+.col1{
+       
+    justify-content:left;
+    color: white;
+}
+.link{
+    color: white;
+    
+
+}
+.footertext{
+    font-weight: bold;
+}
+.footerleft{
+    
+    justify-content:left;
+    color: white;
+}
+.footerright{
+    justify-content: right;
+    color: white;
+}
+
+
+
+.line{
+    color: white;
+    width: 87%;
+    border-top: 2px solid rgb(255, 255, 255);
+    margin-left: 7%;
+    
+}
+.socialmedia-link{
+    color: gray;
+    background-color: white;
+    font-size: 18px;
+    border-radius: 20%;
+    padding:5px;
+    width:40px;
+    height: 38px;
+    margin-left: 5px;
+   
+}

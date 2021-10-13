@@ -1,0 +1,21 @@
+.imgcontainer{
+  background-image: url(./background.jpg);
+  padding-top: 180px;
+  padding-bottom: 70px;
+  background-size: cover;
+  
+}
+.select-platform{
+  background: rgba(21, 22, 22, 0.5);
+  width: 50%;
+
+  color:white;
+  font-size: 20px;
+  padding: 5%;
+  margin-left: 10%;
+  
+}
+.playstore{
+ margin-left: 20px;
+ color: rgb(30, 144, 144);
+}
